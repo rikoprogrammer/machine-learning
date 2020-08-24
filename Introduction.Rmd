@@ -1,0 +1,28 @@
+```{r}
+library(rmarkdown)
+```
+
+---
+title: "Regression models"
+author: "rikoprogrammer"
+date: "8/23/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+A simple introduction to regression models. In this project i set out to cover regression both linear and mulitiple. I will also consider polynomial regression in latter sections.
+
+## A sample R session
+```{r cars, echo = TRUE}
+summary(cars)
+regressor = lm(cars)
+summary(regressor)
+```
+
+
+
