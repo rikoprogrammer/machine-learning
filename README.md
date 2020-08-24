@@ -1,7 +1,7 @@
-# machine-learning algorithms
+# Machine-learning algorithms
 ## Simple linear regression 
 ## Multiple linear regression
-## Polynomial regression\
-## Support vector regression\
-## Random forest classification\
+## Polynomial regression
+## Support vector regression
+## Random forest classification
 ## Decision tree classification
