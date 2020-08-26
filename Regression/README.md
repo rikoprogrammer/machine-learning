@@ -1,4 +1,4 @@
-# Regression algorithms
+# Regression models
 ## Simple linear regression 
 ## Multiple linear regression
 ## Polynomial regression
