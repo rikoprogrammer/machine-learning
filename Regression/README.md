@@ -1,4 +1,4 @@
-# Machine-learning algorithms
+# Regression algorithms
 ## Simple linear regression 
 ## Multiple linear regression
 ## Polynomial regression
